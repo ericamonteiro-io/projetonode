@@ -1,4 +1,4 @@
-# Sistema de Cadastro Simple
+# Sistema de Cadastro Simples
 
 Este é um sistema de cadastro simples desenvolvido com Node.js, Express, MySQL e estrutura MVC. Ele permite cadastrar usuários (nome e email) e listar os usuários cadastrados. O ambiente é configurado com um único `Dockerfile` e usa `nodemon` para recarga automática em desenvolvimento.
 
